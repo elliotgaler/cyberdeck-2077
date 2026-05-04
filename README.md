@@ -14,5 +14,8 @@ f3d files - the fusion CAD files, for the assembled and blown-up design
 3mf files - the files ready for printing on a 3D printer
 documentation - word docu that i made to help me with the process + images of the process
 
-NOTE - this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
+
+NOTE - many of the holes needed on the casing can't be printed due to sub-optimal print orientation, so in many places there is small holes that are designed as markers for where to drill larger holes. i can't add a map for what to drill where until i actually build the project, so this will be incomplete for now
+
+NOTE - as this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
 
