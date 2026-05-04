@@ -1,5 +1,6 @@
 # CyberDeck-2077
 A (WIP) CyberDeck project themed from the game CyberPunk 2077
+CyberDeck -  a small, retro mini-pc running off basic hardware. They're a trend at the moment, which is where i got the idea to make one
 The case, clips, hinges, attatchments etc. are all designed to be 3d printed, and attatched together with m2/m3 screws. I made this project because i have an interest in cybersecurity, and wanted to make a small, portable device that i could use to practice on. Even though it isn't hugely functional for that purpose rn (using only a slowish pi4), it is designed so that I have plenty of space to adapt it in the future if I want to. I love the game CyberPunk 2077, the assosiated tv show, and the cyberpunk style as a whole, and thought it an ideal aesthetic inspiration for the project. 
 The cyberdeck features:
 - Rasberry Pi 4b as the mainboard
