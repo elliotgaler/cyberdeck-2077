@@ -1,2 +1,17 @@
 # CyberDeck-2077
-A CyberDeck project themed from the game CyberPunk 2077
+A (WIP) CyberDeck project themed from the game CyberPunk 2077
+The case, clips, hinges, attatchments etc. are all designed to be 3d printed, and attatched together with m2/m3 screws. I made this project because i have an interest in cybersecurity, and wanted to make a small, portable device that i could use to practice on. Even though it isn't hugely functional for that purpose rn (using only a slowish pi4), it is designed so that I have plenty of space to adapt it in the future if I want to. I love the game CyberPunk 2077, the assosiated tv show, and the cyberpunk style as a whole, and thought it an ideal aesthetic inspiration for the project. 
+The cyberdeck features:
+- Rasberry Pi 4b as the mainboard
+- a 7 inch 1024x600 monitor
+- a Rii x1 mini keyboard
+- neural port style usb hub (from the game)
+- other components (rear ethernet port, usb-c port, cooling fan)
+
+FILES:
+f3d files - the fusion CAD files, for the assembled and blown-up design
+3mf files - the files ready for printing on a 3D printer
+documentation - word docu that i made to help me with the process + images of the process
+
+NOTE - this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
+
