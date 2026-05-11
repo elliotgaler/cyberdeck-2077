@@ -1,21 +1,27 @@
 # CyberDeck-2077
 A (WIP) CyberDeck project themed from the game CyberPunk 2077
 CyberDeck -  a small, retro mini-pc running off basic hardware. They're a trend at the moment, which is where i got the idea to make one
-The case, clips, hinges, attatchments etc. are all designed to be 3d printed, and attatched together with m2/m3 screws. I made this project because i have an interest in cybersecurity, and wanted to make a small, portable device that i could use to practice on. Even though it isn't hugely functional for that purpose rn (using only a slowish pi4), it is designed so that I have plenty of space to adapt it in the future if I want to. I love the game CyberPunk 2077, the assosiated tv show, and the cyberpunk style as a whole, and thought it an ideal aesthetic inspiration for the project. 
+The case, clips, hinges, attatchments etc. are all designed to be 3d printed, and attatched together with m2/m3 screws. I made this project because i have an interest in cybersecurity, and wanted to make a small, portable device that i could use to practice on. Even though it isn't hugely functional for that purpose rn (using only a relatively slow pi5), it is designed so that I have plenty of space to adapt it in the future if I want to. I love the game CyberPunk 2077, the assosiated tv show, and the cyberpunk style as a whole, and thought it an ideal aesthetic inspiration for the project.   
 The cyberdeck features:
-- Rasberry Pi 4b as the mainboard
+- Rasberry Pi 5 as the mainboard
 - a 7 inch 1024x600 monitor
 - a Rii x1 mini keyboard
 - neural port style usb hub (from the game)
 - other components (rear ethernet port, usb-c port, cooling fan)
 
-FILES:
-f3d files - the fusion CAD files, for the assembled and blown-up design
-3mf files - the files ready for printing on a 3D printer
-documentation - word docu that i made to help me with the process + images of the process
-
+FILES:  
+f3d files - the fusion CAD files, for the assembled and blown-up design  
+3mf files - the files ready for printing on a 3D printer  
+documentation - word docu that i made to help me with the process + images of the process + bill of materials  
+  
 
 NOTE - many of the holes needed on the casing can't be printed due to sub-optimal print orientation, so in many places there is small holes that are designed as markers for where to drill larger holes. i can't add a map for what to drill where until i actually build the project, so this will be incomplete for now
 
 NOTE - as this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
 
+<img width="697" height="992" alt="image" src="https://github.com/user-attachments/assets/ecd5a696-f656-415e-b043-a449e8e0b475" />
+
+
+<img width="1009" height="933" alt="Screenshot 2026-05-04 172059" src="https://github.com/user-attachments/assets/014a6220-e8a0-4e11-b773-adc2d68a840f" />
+<img width="802" height="1012" alt="Screenshot 2026-05-04 172925" src="https://github.com/user-attachments/assets/55b2f20d-2d1a-4c98-97ab-48bbe09671bc" />
+<img width="1285" height="725" alt="Screenshot 2026-05-04 172111" src="https://github.com/user-attachments/assets/9a51791b-04ab-4ad1-8584-dcdc38f1647c" />
