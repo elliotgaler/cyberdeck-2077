@@ -19,7 +19,8 @@ NOTE - many of the holes needed on the casing can't be printed due to sub-optima
 
 NOTE - as this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
 
-<img width="697" height="992" alt="image" src="https://github.com/user-attachments/assets/ecd5a696-f656-415e-b043-a449e8e0b475" />
+<img width="662" height="946" alt="image" src="https://github.com/user-attachments/assets/e8285039-ab78-4725-83d5-72f3386c41dd" />
+
 <img width="1391" height="1020" alt="Screenshot 2026-05-19 210840" src="https://github.com/user-attachments/assets/3ad9bff2-7d43-443f-88f3-6edbe84d8c50" />
 
 
