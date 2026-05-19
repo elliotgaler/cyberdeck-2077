@@ -1,8 +1,8 @@
 # CyberPunk Cyber-deck — Journal Export
 
-- Exported at: 2026-05-11T19:26:02Z
+- Exported at: 2026-05-19T20:41:41Z
 - Project ID: 2610
-- Entries: 17
+- Entries: 18
 
 ## Entry 1
 - ID: 3891
@@ -283,3 +283,18 @@ finishing wiring diagram for the deck so i can resubmit the project yaay, used r
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/aa42bf57-8e0a-42c0-9d48-adf7b4b0cf4e/video.mp4
+
+## Entry 18
+- ID: 7482
+- Author: elliotgaler
+- Created At: 2026-05-16T19:36:29Z
+
+### Content
+
+Built a model of the BadUSB that will go with the cyberdeck, using a arduino beetle board and a microsd port. imported a model of The Relic from Cyberpunk2077, and then cut holes to store the board and the port. started making a storage hole in the lower area of the cyberdeck.
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYzNDcsInB1ciI6ImJsb2JfaWQifX0=--e91dfbeb5534b62925910370a4d334da106ccd8d/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/80a10b12-7f31-4d45-9f59-a3b64bec3ed3/video.mp4
