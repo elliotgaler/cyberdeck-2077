@@ -19,7 +19,8 @@ NOTE - many of the holes needed on the casing can't be printed due to sub-optima
 
 NOTE - as this is a WIP, files may not be fully functional as of 04/05/26 (dd/mm/yy)
 
-<img width="662" height="946" alt="image" src="https://github.com/user-attachments/assets/e8285039-ab78-4725-83d5-72f3386c41dd" />
+
+<img width="1410" height="2000" alt="Copy of CyberDeck zine pdf" src="https://github.com/user-attachments/assets/96adf0c3-b6f8-4e94-aa17-4aa8fe29311e" />
 
 <img width="1391" height="1020" alt="Screenshot 2026-05-19 210840" src="https://github.com/user-attachments/assets/3ad9bff2-7d43-443f-88f3-6edbe84d8c50" />
 
