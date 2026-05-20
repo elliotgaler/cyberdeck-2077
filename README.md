@@ -12,6 +12,12 @@ The cyberdeck features:
 What i intend to use the deck for:
 i'm super into cybersecurity rn and im hoping to go into work in that industry, so i'm going to insall some sort of linux distro (arch/kali) designed for cybersecurity and use it to practice skills related to cybersec. i also intend to do some other projects in fallout to compliment it, including a BadUSB/RubberDucky pcb board that im working on atm (elliotgaler/DIYRubberDucky). I might expand it in the future to include an internal battery, but i'm leaving it as a wall-power only for simplicity
 
+Future changes/plans:
+- update USB ports on LowerCaseCover to fit the actual hub
+- Add an internal battery
+- integrate my other projetct (DiyRubberDucky), adding storage/attachment points
+- 
+
 FILES:  
 construction files - the fusion CAD files, for the assembled and blown-up design + step files for ease of use
 3mf files - the files ready for printing on a 3D printer  
