@@ -1,0 +1,25 @@
+Bill of Materials,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,NAME,DESC,LINK,UNIT PRICE,UNIT AMOUNT,RUNNING TOTAL
+,Rasberry Pi 5,The mainboard of the project,https://shorturl.at/4AiOK,£43.20,1,£43.20
+,7 Inch Screen,The screen for video output,https://shorturl.at/TB3XK,£20.19,1,£63.39
+,Rii X1 keyboard,The keyboard/pointer for input,https://shorturl.at/DzRTy,£12.09,1,£75.48
+,Rasberry Pi heatsink,Heatsink for the pi board,https://shorturl.at/3djcr,£1.89,1,£77.37
+,Dupont cable,Cables for using pi pins,https://shorturl.at/Kwtkn,£1.28,1,£78.65
+,Push button,Start button for pi board,https://rb.gy/n7qr61,£2.06,1,£80.71
+,Usb C splitter,Splitter to power board+screen,https://shorturl.at/PziXz,£2.38,1,£83.09
+,USB hub,Hub to take ports to outside of case,https://shorturl.at/EItCf,£1.00,1,£84.09
+,M2 screws,Screws for attaching parts,Purchase at hardware store (https://shorturl.at/QgxTS),£0.10,25,£86.59
+,M3 screws,Screws for attaching parts,Purchase at hardware store (https://shorturl.at/QgxTS),£0.10,4,£86.99
+,M2 inserts,For attaching screws to plastic,Purchase at hardware store (https://shorturl.at/QgxTS),£0.10,25,£89.49
+,M3 inserts,For attaching screws to plastic,Purchase at hardware store (https://shorturl.at/QgxTS),£0.10,4,£89.89
+,Ethernet extender,For external ethernet port,https://shorturl.at/F6xKs,£1.60,1,£91.49
+,3007 fan,30mm fan for cooling pi,https://shorturl.at/X9jGS,£1.92,1,£93.41
+,Wires,Wires for connecting components,Purchase at hardware store (https://shorturl.at/BUKeM),£2.00,1,£95.41
+,PETG fillament,High-strength fillament for printing case components,https://shorturl.at/1YEJ3,£13.99,1,£109.40
+,SD card extender,Cable for taking sd card from outside of case,https://shorturl.at/Pyktu,£1.99,1,£111.39
+,USB-C extender,Cable for taking USB-C from the back of case,https://shorturl.at/ff3qk,£1.26,1,£112.65
+,Micro-HDMI to HDMI,Cable for taking video from pi5 to display,https://shorturl.at/XtR4Q,£1.99,1,£114.64
+,Keyboard power cable,Cable to power/charge keyboard,https://shorturl.at/65F7K,£2.12,1,£116.76
